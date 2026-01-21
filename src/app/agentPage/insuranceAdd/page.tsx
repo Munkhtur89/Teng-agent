@@ -1,6 +1,6 @@
 
 "use client";
-import React, { useState, useEffect } from "react";
+import React, { useState, useEffect, Suspense } from "react";
 import Cookies from "js-cookie";
 import { useRouter, useSearchParams } from "next/navigation";
 import SuccessModal from "@/components/SuccessModal";
@@ -42,7 +42,25 @@ type ChatMessage = {
   imageUrl?: string;
 };
 
+// Loading component for Suspense fallback
+function InsuranceAddLoading() {
+  return (
+    <div className="min-h-screen bg-gray-200 flex items-center justify-center">
+      <div className="animate-spin rounded-full h-12 w-12 border-t-2 border-b-2 border-blue-600"></div>
+    </div>
+  );
+}
+
+// Wrap the page in Suspense to handle useSearchParams
 export default function Page() {
+  return (
+    <Suspense fallback={<InsuranceAddLoading />}>
+      <InsuranceAddContent />
+    </Suspense>
+  );
+}
+
+function InsuranceAddContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const { logoutAgent } = useAgentAuth();
