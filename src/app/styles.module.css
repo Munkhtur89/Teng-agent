@@ -1,0 +1,13 @@
+.prodDetailImg {
+  width: clamp(14.063rem, 23.855vw + 6.608rem, 20rem);
+  height: clamp(17.188rem, 29.58vw + 7.944rem, 24.875rem);
+  overflow: hidden;
+  border-radius: 52px;
+  margin-inline: auto;
+}
+
+@media screen and (max-width: 640px) {
+  .prodDetailImg {
+    border-radius: 20px;
+  }
+}

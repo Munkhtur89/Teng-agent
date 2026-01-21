@@ -1,0 +1,33 @@
+<svg width="88" height="88" viewBox="0 0 88 88" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle opacity="0.05" cx="49.9966" cy="24.3287" r="20.3873" fill="#275499" />
+    <rect x="15.2891" y="66.2305" width="56.7311" height="4.14335" fill="white" stroke="#061938"
+        stroke-linecap="round" />
+    <rect x="17.1406" y="38.8281" width="53.0212" height="3.79737" fill="white" stroke="#061938"
+        stroke-linecap="round" />
+    <path d="M13.9297 35.7765L43.6344 17.7656L73.3391 35.7765V38.8234H13.9297V35.7765Z" fill="#1e40af" stroke="#061938"
+        stroke-linecap="round" />
+    <rect x="19.6484" y="42.625" width="5.25984" height="23.6137" fill="white" stroke="#061938"
+        stroke-linecap="round" />
+    <rect x="30.4219" y="42.625" width="5.25984" height="23.6137" fill="white" stroke="#061938"
+        stroke-linecap="round" />
+    <rect x="52.3828" y="42.625" width="5.25985" height="23.6137" fill="white" stroke="#061938"
+        stroke-linecap="round" />
+    <rect x="63.1641" y="42.625" width="5.25984" height="23.6137" fill="white" stroke="#061938"
+        stroke-linecap="round" />
+    <path
+        d="M40.8906 55.6865C40.8906 53.9676 42.2841 52.5742 44.0029 52.5742V52.5742C45.7218 52.5742 47.1153 53.9676 47.1153 55.6865V66.237H40.8906V55.6865Z"
+        fill="#1e40af" />
+    <path
+        d="M47.1153 66.237V66.737H47.6153V66.237H47.1153ZM40.8906 66.237H40.3906V66.737H40.8906V66.237ZM46.6153 55.6865V66.237H47.6153V55.6865H46.6153ZM47.1153 65.737H40.8906V66.737H47.1153V65.737ZM41.3906 66.237V55.6865H40.3906V66.237H41.3906ZM44.0029 53.0742C45.4457 53.0742 46.6153 54.2438 46.6153 55.6865H47.6153C47.6153 53.6915 45.998 52.0742 44.0029 52.0742V53.0742ZM44.0029 52.0742C42.0079 52.0742 40.3906 53.6915 40.3906 55.6865H41.3906C41.3906 54.2438 42.5602 53.0742 44.0029 53.0742V52.0742Z"
+        fill="#061938" />
+    <path d="M10.1641 70.3789H77.3211" stroke="#061938" stroke-linecap="round" />
+    <ellipse cx="44.0031" cy="30.132" rx="3.19057" ry="3.19057" fill="white" stroke="#061938" stroke-linecap="round" />
+    <circle cx="65.7955" cy="68.3033" r="16.5924" fill="white" stroke="#061938" />
+    <path
+        d="M65.7969 73.5H60.5469C60.1491 73.5 59.7675 73.342 59.4862 73.0607C59.2049 72.7794 59.0469 72.3978 59.0469 72V64.5C59.0469 64.1022 59.2049 63.7206 59.4862 63.4393C59.7675 63.158 60.1491 63 60.5469 63H71.0469C71.4447 63 71.8262 63.158 72.1075 63.4393C72.3888 63.7206 72.5469 64.1022 72.5469 64.5V70.125"
+        stroke="#061938" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M59.0469 64.5L65.7969 69L72.5469 64.5" stroke="#061938" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M68.0469 73.5H72.5469" stroke="#061938" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M70.2969 71.25L72.5469 73.5L70.2969 75.75" stroke="#061938" stroke-linecap="round"
+        stroke-linejoin="round" />
+</svg>
